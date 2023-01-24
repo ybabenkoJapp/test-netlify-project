@@ -9,7 +9,8 @@
   package = "@netlify/plugin-sitemap"
 
   [plugins.inputs]
-    buildDir = "."
+    buildDir = "dist"
+    filePath = "dist/sitemap.xml"
 #[dev]
 #  command = "yarn dev"
 #  port = 8888
