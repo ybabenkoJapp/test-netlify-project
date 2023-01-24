@@ -10,7 +10,7 @@
 
   [plugins.inputs]
     buildDir = "dist"
-    filePath = "dist/sitemap.xml"
+    filePath = "./sitemap.xml"
 #[dev]
 #  command = "yarn dev"
 #  port = 8888
